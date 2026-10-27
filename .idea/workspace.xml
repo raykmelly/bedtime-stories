@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba12ac2c-a4ef-48e9-bc5f-3707b8d05a06" name="Changes" comment="Added the text to the bedtime stories">
+    <list default="true" id="ba12ac2c-a4ef-48e9-bc5f-3707b8d05a06" name="Changes" comment="Finished the project.">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goldilocks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/goldilocks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hansel_and_gretel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hansel_and_gretel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mary_had_a_little_lamb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mary_had_a_little_lamb.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/BedtimeStories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/BedtimeStories.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +63,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started project to practice reading files with filereader and bufferedreader" />
     <MESSAGE value="Added the text to the bedtime stories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the text to the bedtime stories" />
+    <MESSAGE value="Finished the project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the project." />
   </component>
 </project>

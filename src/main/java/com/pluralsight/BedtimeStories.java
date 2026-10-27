@@ -28,5 +28,6 @@ public class BedtimeStories {
             throw new RuntimeException(e);
         }
 
+        scanner.close();
     }
 }
